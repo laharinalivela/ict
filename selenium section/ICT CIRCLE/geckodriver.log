@@ -1,0 +1,592 @@
+1693562486615	geckodriver	INFO	Listening on 127.0.0.1:54055
+1693562489693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54056" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileaXQMnA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693562490174	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693562490358	Marionette	INFO	Listening on port 54066
+WebDriver BiDi listening on ws://127.0.0.1:54056
+Read port: 54066
+1693562490773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54056/devtools/browser/cb2f3c4e-4a45-4c0e-9014-931fbbaf85a9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ictcircle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ictcircle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ictcircle.com."
+[Parent 7936, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17280, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js, line 9: Script terminated by timeout at:
+mt@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:9:95015
+e.prototype.addEventListener/<@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:1:47208
+v/</s.proxy@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:16588
+
+1693562625810	Marionette	INFO	Stopped listening on port 54066
+Dynamically enable window occlusion 1
+[Parent 7936, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17280, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7936, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17280, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7936, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17280, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7936, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17280, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693808925636	geckodriver	INFO	Listening on 127.0.0.1:55595
+1693808928679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55596" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilefZKiCW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693822295960	geckodriver	INFO	Listening on 127.0.0.1:63843
+1693822299020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileRfUwny"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693822299393	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693822299479	Marionette	INFO	Listening on port 63852
+WebDriver BiDi listening on ws://127.0.0.1:63844
+Read port: 63852
+1693822299802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63844/devtools/browser/1392a0ec-c44c-44bf-9351-1b4321fc4cfc
+[Parent 14592, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13272, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js, line 1872: Script terminated by timeout at:
+qC@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:1872:59
+sC@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:1875:57
+g.$Aa@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:3017:42
+g.k.DQ@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:11448:126
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:11341:102
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:9485:62
+UP/a.state.j[b]@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:3950:53
+xx/<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1828:106
+Jx@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1864:46
+Nx<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1871:183
+Sk/<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:849:63
+
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 7005 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 690 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 14592, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13272, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ictcircle.com."
+JavaScript error: https://www.ictcircle.com/_next/static/chunks/3053-8e78354822328f9b.js, line 1: TypeError: ey[0] is undefined
+JavaScript error: https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.DJcNUfrSLyU.O/d=1/exm=el_conf/ed=1/rs=AN8SPfqwoB2zZE9bFKROsxHEj9UJ-_NnVg/m=el_main, line 25: TypeError: a is undefined
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 438: TypeError: channel is null
+JavaScript error: https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.DJcNUfrSLyU.O/d=1/exm=el_conf/ed=1/rs=AN8SPfqwoB2zZE9bFKROsxHEj9UJ-_NnVg/m=el_main, line 25: TypeError: a is undefined
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ictcircle.com."
+console.error: "Unable to find target with innerWindowId:6442450945"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450971/domwalker20, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent106
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent106
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent106
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent106
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent106
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent106
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent106
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent106
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent106
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent106
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getRequestHeaders: No such actor for ID: server0.conn0.netEvent106
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getRequestHeaders: No such actor for ID: server0.conn0.netEvent106
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getRequestHeaders: No such actor for ID: server0.conn0.netEvent106
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getRequestHeaders: No such actor for ID: server0.conn0.netEvent106
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7, line 495: Script terminated by timeout at:
+aa.lh@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:495:89
+get@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:493:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:493:87
+aa.vk/c/<@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:493:412
+EventListener.handleEvent*Nc@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:168:144
+c@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:493:391
+aa.vk@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:494:80
+aa.wk@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:541:82
+aa.hm@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:525:401
+aa.gm/k/<@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:523:494
+Nj@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:287:235
+Zj@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:289:349
+k@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:523:480
+c@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:331:169
+tn@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:332:269
+aa.gm@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:524:13
+c@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:543:694
+bw@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:409:298
+aw.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:412:95
+aw.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:410:207
+config@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:418:497
+bx@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:430:472
+fx/b.push@https://www.googletagmanager.com/gtag/js?id=G-8N0TC85ZJ7:435:315
+fx/<@https://www.googletagmanager.com/gtag/js?id=UA-180536448-2:309:303
+setTimeout handler*F@https://www.googletagmanager.com/gtag/js?id=UA-180536448-2:70:337
+Ut@https://www.googletagmanager.com/gtag/js?id=UA-180536448-2:267:682
+@https://www.googletagmanager.com/gtag/js?id=UA-180536448-2:414:14
+@https://www.googletagmanager.com/gtag/js?id=UA-180536448-2:410:228
+@https://www.googletagmanager.com/gtag/js?id=UA-180536448-2:410:234
+@https://www.googletagmanager.com/gtag/js?id=UA-180536448-2:417:3
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693822350660	Marionette	INFO	Stopped listening on port 63852
+Dynamically enable window occlusion 1
+[Parent 14592, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13272, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14592, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13272, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14592, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13272, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14592, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13272, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14592, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13272, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693822352582	geckodriver	INFO	Listening on 127.0.0.1:64032
+1693822355625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile9ygYob"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693822356006	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693822356084	Marionette	INFO	Listening on port 64042
+WebDriver BiDi listening on ws://127.0.0.1:64033
+Read port: 64042
+1693822356382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64033/devtools/browser/8c95f551-e27e-40bb-9f15-932add9bb8a8
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/domnode23, type getUniqueSelector failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetNodeFrontSelectorsFromTopDocument@resource://devtools/shared/commands/inspector/inspector-command.js:342:42\nupdateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1468:8\nonNewSelection@resource://devtools/client/inspector/inspector.js:1542:10\ninit@resource://devtools/client/inspector/inspector.js:245:10\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle20, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\nonSidebarSelect@resource://devtools/client/inspector/boxmodel/box-model.js:398:10\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nhandleSelectionChange@resource://devtools/client/inspector/toolsidebar.js:216:10\naddAllQueuedTabs/<@resource://devtools/client/shared/components/tabs/TabBar.js:188:20\ncallCallback@resource://devtools/client/shared/vendor/react-dom.js:12127:12\ncommitUpdateEffects@resource://devtools/client/shared/vendor/react-dom.js:12166:19\ncommitUpdateQueue@resource://devtools/client/shared/vendor/react-dom.js:12154:22\ncommitLifeCycles@resource://devtools/client/shared/vendor/react-dom.js:12964:28\ncommitAllLifeCycles@resource://devtools/client/shared/vendor/react-dom.js:14174:23\ncommitRoot@resource://devtools/client/shared/vendor/react-dom.js:14380:28\ncompleteRoot/<@resource://devtools/client/shared/vendor/react-dom.js:15731:15\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ncompleteRoot@resource://devtools/client/shared/vendor/react-dom.js:15730:27\nperformWorkOnRoot@resource://devtools/client/shared/vendor/react-dom.js:15659:21\nperformWork@resource://devtools/client/shared/vendor/react-dom.js:15567:24\nperformSyncWork@resource://devtools/client/shared/vendor/react-dom.js:15541:14\nrequestWork@resource://devtools/client/shared/vendor/react-dom.js:15410:5\nscheduleWork@resource://devtools/client/shared/vendor/react-dom.js:15224:16\nenqueueSetState@resource://devtools/client/shared/vendor/react-dom.js:8192:17\nComponent.prototype.setState@resource://devtools/client/shared/vendor/react.js:328:16\naddAllQueuedTabs@resource://devtools/client/shared/components/tabs/TabBar.js:186:10\naddAllQueuedTabs@resource://devtools/client/inspector/toolsidebar.js:78:18\nsetupSidebar@resource://devtools/client/inspector/inspector.js:1255:18\ninit@resource://devtools/client/inspector/inspector.js:240:10\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle20, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1142:8\nrefreshPanel/<@resource://devtools/client/inspector/rules/rules.js:1077:19\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle20, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1142:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1035:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle20, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1142:8\nrefreshPanel/<@resource://devtools/client/inspector/rules/rules.js:1077:19\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle20, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1142:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1035:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle20, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1142:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1035:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967297/pagestyle20, type getApplied failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+getApplied@resource://devtools/client/fronts/page-style.js:61:29
+populate@resource://devtools/client/inspector/rules/models/element-style.js:123:8
+_populate@resource://devtools/client/inspector/rules/rules.js:1142:8
+refreshPanel/<@resource://devtools/client/inspector/rules/rules.js:1077:19
+
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450958/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450958/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal6442450958/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:84:30
+initialize@resource://devtools/client/fronts/inspector.js:73:12
+
+[Parent 14296, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1040, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 4403 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 4892 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 1304 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:8589934593"
+console.error: "Unable to find target with innerWindowId:8589934593"
+console.error: "Unable to find target with innerWindowId:8589934593"
+console.error: "Unable to find target with innerWindowId:8589934593"
+console.error: "Unable to find target with innerWindowId:8589934594"
+console.error: "Unable to find target with innerWindowId:8589934594"
+console.error: "Unable to find target with innerWindowId:8589934594"
+console.error: "Unable to find target with innerWindowId:8589934594"
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+[Parent 14296, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1040, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.DJcNUfrSLyU.O/d=1/exm=el_conf/ed=1/rs=AN8SPfqwoB2zZE9bFKROsxHEj9UJ-_NnVg/m=el_main, line 25: TypeError: a is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ictcircle.com."
+JavaScript error: https://www.ictcircle.com/_next/static/chunks/3053-8e78354822328f9b.js, line 1: TypeError: ey[0] is undefined
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getEventTimings: No such actor for ID: server0.conn0.netEvent2362
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getRequestHeaders: No such actor for ID: server0.conn0.netEvent2339
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getRequestHeaders: No such actor for ID: server0.conn0.netEvent2339
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getRequestHeaders: No such actor for ID: server0.conn0.netEvent2341
+JavaScript error: resource://devtools/client/netmonitor/src/connector/firefox-data-provider.js, line 636: Error: Error while calling method getRequestHeaders: No such actor for ID: server0.conn0.netEvent2341
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ictcircle.com."
+JavaScript error: https://www.ictcircle.com/_next/static/chunks/3053-8e78354822328f9b.js, line 1: TypeError: ey[0] is undefined
+JavaScript error: https://www.ictcircle.com/_next/static/chunks/3053-8e78354822328f9b.js, line 1: TypeError: ey[0] is undefined
+JavaScript error: https://www.ictcircle.com/_next/static/chunks/3053-8e78354822328f9b.js, line 1: TypeError: ey[0] is undefined
+JavaScript error: https://www.ictcircle.com/_next/static/chunks/3053-8e78354822328f9b.js, line 1: TypeError: ey[0] is undefined
+JavaScript error: https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.DJcNUfrSLyU.O/d=1/exm=el_conf/ed=1/rs=AN8SPfqwoB2zZE9bFKROsxHEj9UJ-_NnVg/m=el_main, line 25: TypeError: a is undefined
+JavaScript warning: https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js, line 11: Script terminated by timeout at:
+v/</s.proxy@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:16528
+EventListener.handleEvent*v/<@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:16740
+v@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:16278
+e.fn.on/<@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:18917
+each@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:6580
+e.fn.on@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:18659
+e.prototype.addEventListener@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:1:47186
+Me/<@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:9:104361
+Me/<@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:9:105098
+Me@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:9:105493
+ze@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:9:105564
+e.prototype.checkPrivacyConsent@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:9:26919
+@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:21396
+i@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:1:110
+@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:1:902
+@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:1:911
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693822412744	Marionette	INFO	Stopped listening on port 64042
+Dynamically enable window occlusion 1
+[Parent 14296, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1040, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14296, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1040, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14296, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1040, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14296, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1040, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14296, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1040, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693827815845	geckodriver	INFO	Listening on 127.0.0.1:53077
+1693827818886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilemlkv3j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693827819234	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693827819320	Marionette	INFO	Listening on port 53086
+WebDriver BiDi listening on ws://127.0.0.1:53078
+Read port: 53086
+1693827819407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53078/devtools/browser/7f696bc9-dde1-42d9-8b8a-a899ad7ee26f
+[Parent 16176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9384, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.youtube.com/s/player/0a835141/player_es6.vflset/en_US/base.js, line 1254: Script terminated by timeout at:
+$t@https://www.youtube.com/s/player/0a835141/player_es6.vflset/en_US/base.js:1254:87
+bu@https://www.youtube.com/s/player/0a835141/player_es6.vflset/en_US/base.js:1257:57
+@https://www.youtube.com/s/player/0a835141/player_es6.vflset/en_US/base.js:6205:42
+CL@https://www.youtube.com/s/player/0a835141/player_es6.vflset/en_US/base.js:7330:99
+sendAbandonmentPing@https://www.youtube.com/s/player/0a835141/player_es6.vflset/en_US/base.js:7288:499
+sendAbandonmentPing@https://www.youtube.com/s/player/0a835141/player_es6.vflset/en_US/base.js:6363:346
+eL/a.state.j[b]@https://www.youtube.com/s/player/0a835141/player_es6.vflset/en_US/base.js:2991:43
+xx/<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1828:106
+Jx@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1864:46
+Nx<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1871:183
+Sk/<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:849:63
+
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 6223 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 894 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 16176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9384, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ictcircle.com."
+JavaScript error: https://www.ictcircle.com/_next/static/chunks/3053-8e78354822328f9b.js, line 1: TypeError: ey[0] is undefined
+JavaScript error: https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.DJcNUfrSLyU.O/d=1/exm=el_conf/ed=1/rs=AN8SPfqwoB2zZE9bFKROsxHEj9UJ-_NnVg/m=el_main, line 25: TypeError: a is undefined
+JavaScript error: https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.DJcNUfrSLyU.O/d=1/exm=el_conf/ed=1/rs=AN8SPfqwoB2zZE9bFKROsxHEj9UJ-_NnVg/m=el_main, line 25: TypeError: a is undefined
+JavaScript warning: https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js, line 11: Script terminated by timeout at:
+v/</s.proxy@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:16528
+
+1693827848895	Marionette	INFO	Stopped listening on port 53086
+Dynamically enable window occlusion 1
+[Parent 16176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9384, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9384, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9384, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9384, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9384, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693827851988	geckodriver	INFO	Listening on 127.0.0.1:53203
+1693827855024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53204" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0em9tz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693827855382	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693827855460	Marionette	INFO	Listening on port 53213
+WebDriver BiDi listening on ws://127.0.0.1:53204
+Read port: 53213
+1693827855550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53204/devtools/browser/dcc0977b-1f92-4766-97c2-5aa632bca24d
+[Parent 9436, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1772, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js, line 1884: Script terminated by timeout at:
+cma@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:1884:17
+qC@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:1872:137
+sC@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:1875:57
+g.$Aa@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:3017:42
+g.k.DQ@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:11448:126
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:11341:102
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:9485:62
+UP/a.state.j[b]@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:3950:53
+xx/<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1828:106
+Jx@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1864:46
+Nx<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1871:183
+Sk/<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:849:63
+
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 3340 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 2261 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 9436, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1772, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ictcircle.com."
+JavaScript error: https://www.ictcircle.com/_next/static/chunks/3053-8e78354822328f9b.js, line 1: TypeError: ey[0] is undefined
+JavaScript error: https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.DJcNUfrSLyU.O/d=1/exm=el_conf/ed=1/rs=AN8SPfqwoB2zZE9bFKROsxHEj9UJ-_NnVg/m=el_main, line 25: TypeError: a is undefined
+JavaScript error: https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.DJcNUfrSLyU.O/d=1/exm=el_conf/ed=1/rs=AN8SPfqwoB2zZE9bFKROsxHEj9UJ-_NnVg/m=el_main, line 25: TypeError: a is undefined
+JavaScript warning: https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js, line 11: Script terminated by timeout at:
+_@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:17751
+v/</s.proxy@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:16532
+
+1693827874556	Marionette	INFO	Stopped listening on port 53213
+Dynamically enable window occlusion 1
+[Parent 9436, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1772, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9436, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1772, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9436, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1772, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9436, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1772, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 9436, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 1772, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693828457112	geckodriver	INFO	Listening on 127.0.0.1:53714
+1693828460180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53715" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiletG3gku"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693828460538	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693828460620	Marionette	INFO	Listening on port 53724
+Read port: 
+1693828460623	geckodriver::browser	WARN	Failed fo convert  to u16
+WebDriver BiDi listening on ws://127.0.0.1:53715
+Read port: 53724
+1693828460899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53715/devtools/browser/a27a86ec-6ae8-46e7-9120-50823e8a0190
+[Parent 10588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17684, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js, line 11: Script terminated by timeout at:
+R@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:1091
+P@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:1393
+n.each@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:5181
+_@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:17797
+v/</s.proxy@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:16532
+
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 1657 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 1970 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 3672 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693828482324	Marionette	INFO	Stopped listening on port 53724
+Dynamically enable window occlusion 1
+[Parent 10588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17684, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17684, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17684, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 10588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17684, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693828490733	geckodriver	INFO	Listening on 127.0.0.1:53835
+1693828493815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53836" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledUKB6r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693828494169	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693828494248	Marionette	INFO	Listening on port 53845
+Read port: 53845
+WebDriver BiDi listening on ws://127.0.0.1:53836
+1693828494337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53836/devtools/browser/33d3fe6e-e02e-4750-9e5d-c336a79f0ce4
+[Parent 15072, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3512, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://cdn.pagesense.io/js/ictcircle/281693828536885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexsWHt2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693828537236	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693828537315	Marionette	INFO	Listening on port 53981
+WebDriver BiDi listening on ws://127.0.0.1:53973
+Read port: 53981
+1693828537502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53973/devtools/browser/58e2a25d-8336-45b2-9ba3-cbfe8ea433e9
+[Parent 12720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8056, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js, line 1869: Script terminated by timeout at:
+g.oC@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:1869:14
+zI@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:2767:27
+DI/<@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:2769:40
+g.oC/<@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:1869:65
+DI@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:2769:93
+g.k.DQ@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:11448:88
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:11341:102
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:9485:62
+UP/a.state.j[b]@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:3950:53
+xx/<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1828:106
+Jx@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1864:46
+Nx<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1871:183
+Sk/<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:849:63
+
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 7799 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 1031 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 12720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8056, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ictcircle.com."
+JavaScript error: https://www.ictcircle.com/_next/static/chunks/3053-8e78354822328f9b.js, line 1: TypeError: ey[0] is undefined
+JavaScript error: https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.DJcNUfrSLyU.O/d=1/exm=el_conf/ed=1/rs=AN8SPfqwoB2zZE9bFKROsxHEj9UJ-_NnVg/m=el_main, line 25: TypeError: a is undefined
+JavaScript error: https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.DJcNUfrSLyU.O/d=1/exm=el_conf/ed=1/rs=AN8SPfqwoB2zZE9bFKROsxHEj9UJ-_NnVg/m=el_main, line 25: TypeError: a is undefined
+JavaScript warning: https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js, line 11: Script terminated by timeout at:
+v/</s.proxy@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:16528
+
+1693828577761	Marionette	INFO	Stopped listening on port 53981
+Dynamically enable window occlusion 1
+[Parent 12720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8056, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8056, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8056, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8056, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12720, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 8056, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693828581014	geckodriver	INFO	Listening on 127.0.0.1:54115
+1693828584054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileN5Ixlt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693828584411	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693828584490	Marionette	INFO	Listening on port 54126
+Read port: 54126
+WebDriver BiDi listening on ws://127.0.0.1:54116
+1693828584573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54116/devtools/browser/7de99aed-dd99-4061-966a-7c2ccca6ea1e
+[Parent 3004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18140, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js, line 358: Script terminated by timeout at:
+He@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:358:44
+cma@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:1884:42
+qC@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:1872:153
+sC@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:1875:57
+g.$Aa@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:3017:42
+g.k.DQ@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:11448:126
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:11341:102
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:9485:62
+UP/a.state.j[b]@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:3950:53
+xx/<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1828:106
+Jx@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1864:46
+Nx<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1871:183
+Sk/<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:849:63
+
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 3587 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 6881 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 3004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18140, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ictcircle.com."
+JavaScript error: https://www.ictcircle.com/_next/static/chunks/3053-8e78354822328f9b.js, line 1: TypeError: ey[0] is undefined
+JavaScript error: https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.DJcNUfrSLyU.O/d=1/exm=el_conf/ed=1/rs=AN8SPfqwoB2zZE9bFKROsxHEj9UJ-_NnVg/m=el_main, line 25: TypeError: a is undefined
+JavaScript error: https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.DJcNUfrSLyU.O/d=1/exm=el_conf/ed=1/rs=AN8SPfqwoB2zZE9bFKROsxHEj9UJ-_NnVg/m=el_main, line 25: TypeError: a is undefined
+JavaScript warning: https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js, line 11: Script terminated by timeout at:
+v/</s.proxy@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:16528
+
+1693828620955	Marionette	INFO	Stopped listening on port 54126
+Dynamically enable window occlusion 1
+[Parent 3004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18140, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18140, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18140, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18140, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 3004, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 18140, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693828623152	geckodriver	INFO	Listening on 127.0.0.1:54252
+1693828626198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiletkeBPg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693828626543	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693828626627	Marionette	INFO	Listening on port 54261
+WebDriver BiDi listening on ws://127.0.0.1:54253
+Read port: 54261
+1693828626718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54253/devtools/browser/f221f493-3acd-42dc-a276-a2d7e6b8ad68
+[Parent 14868, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js, line 126: Script terminated by timeout at:
+g.u@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:126:23
+g.aBa@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:3018:82
+g.k.DQ@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:11449:137
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:11341:102
+g.k.sendAbandonmentPing@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:9485:62
+UP/a.state.j[b]@https://www.youtube.com/s/player/0a835141/player_ias.vflset/en_US/base.js:3950:53
+xx/<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1828:106
+Jx@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1864:46
+Nx<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:1871:183
+Sk/<@https://www.youtube.com/s/player/0a835141/www-embed-player.vflset/www-embed-player.js:849:63
+
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 2625 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 5298 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 14868, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.ictcircle.com."
+JavaScript error: https://www.ictcircle.com/_next/static/chunks/3053-8e78354822328f9b.js, line 1: TypeError: ey[0] is undefined
+JavaScript error: https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.DJcNUfrSLyU.O/d=1/exm=el_conf/ed=1/rs=AN8SPfqwoB2zZE9bFKROsxHEj9UJ-_NnVg/m=el_main, line 25: TypeError: a is undefined
+JavaScript error: https://translate.googleapis.com/_/translate_http/_/js/k=translate_http.tr.en_GB.DJcNUfrSLyU.O/d=1/exm=el_conf/ed=1/rs=AN8SPfqwoB2zZE9bFKROsxHEj9UJ-_NnVg/m=el_main, line 25: TypeError: a is undefined
+JavaScript warning: https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js, line 11: Script terminated by timeout at:
+_@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:17751
+v/</s.proxy@https://cdn.pagesense.io/js/ictcircle/28e820d800614b48b172eb87b54645c8.js:11:16532
+
+1693828642698	Marionette	INFO	Stopped listening on port 54261
+Dynamically enable window occlusion 1
+[Parent 14868, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14868, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14868, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14868, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 14868, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9224, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
